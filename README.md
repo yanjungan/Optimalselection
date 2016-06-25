@@ -2,6 +2,7 @@
 这是模仿bootstrap优站精选做的案例
 
 app.css中很多样式设计值得学习，如：怎样给文字下面添加横线，列标签去点号，就是原有样式中列标签是有点号的，li{list-style:none;}
+列标签竖向的怎么变成横向一行display: inline-block;
 
 bootstrap中文网许多实例可以学习，优站精选
 http://expo.bootcss.com
